@@ -1,1 +1,2 @@
-puts "I" + "am"+ "Sam"
+name = "Toyoda Yoshiteru"
+puts 
